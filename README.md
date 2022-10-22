@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salmandileepkhan
-- 👀 I’m interested in Webdevelopment
-- 🌱 I’m currently learning JAVA
+-  Training high accurecy models
+- 
 
 - 📫 How to reach me salmandileepkhan90@gmail.com
 
