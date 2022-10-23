@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salmandileepkhan
 -  Training high accurecy models
-- 
+- Exploring complex mathematics
 
 - 📫 How to reach me salmandileepkhan90@gmail.com
 
